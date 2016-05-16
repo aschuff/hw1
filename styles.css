@@ -1,8 +1,9 @@
 body {
    font-family: 'Raleway', sans-serif;
-.tab { margin-left: 40px; }
 }
-
+p {
+  text-indent: 40px;
+}
 * {
 
 }
